@@ -1,4 +1,4 @@
-# Fast Dawid-Skene
+# 专注度识别-Fast Dawid-Skene
 
 [![GitHub](https://img.shields.io/github/license/sukrutrao/Fast-Dawid-Skene.svg)](LICENSE)
 
